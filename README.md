@@ -9,10 +9,9 @@ This interactive Excel dashboard is designed to analyze a decade of hiring data 
 ## Key Features
 
 * **Interactive Filtering:** Use dropdowns for **Job Role**, **City**, and **Year** to slice the data and update the entire dashboard instantly.
-* **Dynamic KPIs:** Get real-time insights into **National Average Salary**, the selected city's **Demand Share**, and the **Yearly Job Count**.
+* **Dynamic KPIs:** Get real-time insights into **National Average Salary**, and the selected city's **Demand Share**.
 * **Trend Analysis:** Visualize hiring volume trends over the last decade with an auto-updating line chart.
 * **Regional Comparison:** A dual-axis chart compares average salaries and job totals across different regions of India.
-* **Top Company Insights:** See the top 5 companies currently hiring for your selected role and city.
 * **Work Type Distribution:** A doughnut chart clearly shows the split between **Remote** and **On-site** job opportunities.
 
 ## How to Use
