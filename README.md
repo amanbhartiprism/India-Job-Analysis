@@ -1,6 +1,6 @@
 # Indian Job Market Analysis Dashboard (2015-2025)
 
-![Dashboard Preview](dashboard_screenshot.png)
+![Dashboard Preview](Dashboard.png)
 
 ## Project Overview
 
